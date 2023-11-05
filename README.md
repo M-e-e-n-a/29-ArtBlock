@@ -4,6 +4,6 @@ FinTech and Retail
 
 
 
-just download the 29_artblock file 
-npm install
-npm run start 
+just download the 29_artblock file \n
+npm install \n
+npm run start \n
