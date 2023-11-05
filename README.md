@@ -6,4 +6,4 @@ FinTech and Retail
 
 just download the 29_artblock file 
 npm install
-npm run server
+npm run start 
